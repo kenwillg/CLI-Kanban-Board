@@ -1,0 +1,131 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Kenneth\\source\\repos\\Tugas 2 Setelah UTS - OOP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{97922F2F-1D1C-4014-8EEE-5EAF8AC3987D}|Tugas 2 Setelah UTS - OOP\\Tugas 2 Setelah UTS - OOP.csproj|c:\\users\\kenneth\\source\\repos\\tugas 2 setelah uts - oop\\tugas 2 setelah uts - oop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97922F2F-1D1C-4014-8EEE-5EAF8AC3987D}|Tugas 2 Setelah UTS - OOP\\Tugas 2 Setelah UTS - OOP.csproj|solutionrelative:tugas 2 setelah uts - oop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97922F2F-1D1C-4014-8EEE-5EAF8AC3987D}|Tugas 2 Setelah UTS - OOP\\Tugas 2 Setelah UTS - OOP.csproj|c:\\users\\kenneth\\source\\repos\\tugas 2 setelah uts - oop\\tugas 2 setelah uts - oop\\objects.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97922F2F-1D1C-4014-8EEE-5EAF8AC3987D}|Tugas 2 Setelah UTS - OOP\\Tugas 2 Setelah UTS - OOP.csproj|solutionrelative:tugas 2 setelah uts - oop\\objects.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97922F2F-1D1C-4014-8EEE-5EAF8AC3987D}|Tugas 2 Setelah UTS - OOP\\Tugas 2 Setelah UTS - OOP.csproj|c:\\users\\kenneth\\source\\repos\\tugas 2 setelah uts - oop\\tugas 2 setelah uts - oop\\strcon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97922F2F-1D1C-4014-8EEE-5EAF8AC3987D}|Tugas 2 Setelah UTS - OOP\\Tugas 2 Setelah UTS - OOP.csproj|solutionrelative:tugas 2 setelah uts - oop\\strcon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97922F2F-1D1C-4014-8EEE-5EAF8AC3987D}|Tugas 2 Setelah UTS - OOP\\Tugas 2 Setelah UTS - OOP.csproj|c:\\users\\kenneth\\source\\repos\\tugas 2 setelah uts - oop\\tugas 2 setelah uts - oop\\mydbdatacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97922F2F-1D1C-4014-8EEE-5EAF8AC3987D}|Tugas 2 Setelah UTS - OOP\\Tugas 2 Setelah UTS - OOP.csproj|solutionrelative:tugas 2 setelah uts - oop\\mydbdatacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 15,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 1,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{25f7e850-ffa1-11d0-b63f-00a0c922e851}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 299,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Objects.cs",
+              "DocumentMoniker": "C:\\Users\\Kenneth\\source\\repos\\Tugas 2 Setelah UTS - OOP\\Tugas 2 Setelah UTS - OOP\\Objects.cs",
+              "RelativeDocumentMoniker": "Tugas 2 Setelah UTS - OOP\\Objects.cs",
+              "ToolTip": "C:\\Users\\Kenneth\\source\\repos\\Tugas 2 Setelah UTS - OOP\\Tugas 2 Setelah UTS - OOP\\Objects.cs",
+              "RelativeToolTip": "Tugas 2 Setelah UTS - OOP\\Objects.cs",
+              "ViewState": "AQIAAEQAAAAAAAAAAAAAwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T00:00:49.329Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MyDbDataContext.cs",
+              "DocumentMoniker": "C:\\Users\\Kenneth\\source\\repos\\Tugas 2 Setelah UTS - OOP\\Tugas 2 Setelah UTS - OOP\\MyDbDataContext.cs",
+              "RelativeDocumentMoniker": "Tugas 2 Setelah UTS - OOP\\MyDbDataContext.cs",
+              "ToolTip": "C:\\Users\\Kenneth\\source\\repos\\Tugas 2 Setelah UTS - OOP\\Tugas 2 Setelah UTS - OOP\\MyDbDataContext.cs",
+              "RelativeToolTip": "Tugas 2 Setelah UTS - OOP\\MyDbDataContext.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAkwCoAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T23:58:52.739Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StrCon.cs",
+              "DocumentMoniker": "C:\\Users\\Kenneth\\source\\repos\\Tugas 2 Setelah UTS - OOP\\Tugas 2 Setelah UTS - OOP\\StrCon.cs",
+              "RelativeDocumentMoniker": "Tugas 2 Setelah UTS - OOP\\StrCon.cs",
+              "ToolTip": "C:\\Users\\Kenneth\\source\\repos\\Tugas 2 Setelah UTS - OOP\\Tugas 2 Setelah UTS - OOP\\StrCon.cs",
+              "RelativeToolTip": "Tugas 2 Setelah UTS - OOP\\StrCon.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T23:48:44.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Kenneth\\source\\repos\\Tugas 2 Setelah UTS - OOP\\Tugas 2 Setelah UTS - OOP\\Program.cs",
+              "RelativeDocumentMoniker": "Tugas 2 Setelah UTS - OOP\\Program.cs",
+              "ToolTip": "C:\\Users\\Kenneth\\source\\repos\\Tugas 2 Setelah UTS - OOP\\Tugas 2 Setelah UTS - OOP\\Program.cs",
+              "RelativeToolTip": "Tugas 2 Setelah UTS - OOP\\Program.cs",
+              "ViewState": "AQIAAFgAAAAAAAAAAAAQwOgBAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T23:45:46.866Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 41,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 61,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
